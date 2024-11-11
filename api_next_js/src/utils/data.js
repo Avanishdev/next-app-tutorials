@@ -1,0 +1,26 @@
+export const users=[
+    {
+        id:1,
+        name:"avanish",
+        website:"avanishdev.com",
+        email:"avanish@gmail.com",
+    },
+    {
+        id:2,
+        name:"yuvraj",
+        website:"yuvrajdev.com",
+        email:"yuvraj@gmail.com",
+    },
+    {
+        id:3,
+        name:"adarsh",
+        website:"adarshpharma.com",
+        email:"adarsh@gmail.com",
+    },
+    {
+        id:4,
+        name:"vijendra",
+        website:"vijendraca.com",
+        email:"vijendra@gmail.com",
+    },
+]

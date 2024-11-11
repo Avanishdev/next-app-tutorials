@@ -1,0 +1,22 @@
+.main-heading{
+    text-align: center;
+}
+.add-form{
+    /* width: 500px; */
+    /* height: 500px;  */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aliceblue; */
+}
+input{
+    width: 50%;
+    margin: 13px;
+    outline: none;
+    padding: 10px;
+}
+.btn{
+    padding: 14px;
+    cursor: pointer;
+}

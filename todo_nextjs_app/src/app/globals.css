@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+}
+.navbar ul li a{
+    margin: 34px;
+    padding: 12px;
+    list-style: none;
+    text-decoration: none;
+}
